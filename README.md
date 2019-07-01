@@ -20,7 +20,9 @@ yarn add react-xml-component
 ```ts
 import { XML } from 'react-xml-component';
 
-...
+/**
+ * ...
+ */
 
 /**
  * Inside render method
@@ -38,7 +40,10 @@ import { XML } from 'react-xml-component';
     <XML name="first:name">Konstantin</XML>
   </XML>
 </XML>
-...
+
+/**
+ * ...
+ */
 
 /**
  * Output
